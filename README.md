@@ -1,5 +1,5 @@
 bash
-cat > README.md << 'EOF' 123
+cat > README.md << 'EOF'
 # Laravel 11 Project
 Este é um projeto Laravel 11 com configuração Docker para desenvolvimento.
 
