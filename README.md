@@ -2,6 +2,13 @@ bash
 cat > README.md << 'EOF' 123
 # Laravel 11 Project
 
+<<<<<<< HEAD
+=======
+bash
+cat > README.md << 'EOF'
+# Laravel 11 Project
+
+>>>>>>> cab63234295d519c67f26c5e230da8f283d83f8d
 Este é um projeto Laravel 11 com configuração Docker para desenvolvimento.
 
 ## 📋 Pré-requisitos
@@ -96,4 +103,8 @@ git add README.md
 git commit -m "docs: create comprehensive README with setup instructions"
 
 # Faz o push para o GitHub
+<<<<<<< HEAD
 git push origin main
+=======
+git push origin main
+>>>>>>> cab63234295d519c67f26c5e230da8f283d83f8d
